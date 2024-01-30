@@ -3,8 +3,7 @@ html{
     font-size: 14px;
     background-color: #141414;
     color: white;
-    height: 100%;
-    margin: 0;
+height: 100%;
 }
 
 body{
@@ -13,6 +12,7 @@ body{
     width: 100%;
     align-items: center;
     justify-content: center;
+    margin: 0;
    
 }
 
