@@ -35,7 +35,7 @@ img{
 }
 
 h1{
-    font-weight: 700;
+    font-weight: 600;
     margin-top: 27px;
     margin-bottom: 0;
     font-size: 23px;
@@ -43,7 +43,7 @@ h1{
 
 #descriptionText{
     font-weight: 400;
-    margin-top: 31px;
+    margin-top: 28px;
     margin-bottom: 26px;
 }
 
@@ -80,7 +80,7 @@ color: #1f1f1f;
 #locationText{
     color: #C4f82a;
     font-weight: 600;
-    margin-top: 13px;
+    margin-top: 10px;
     margin-bottom: 0px;
 
 
