@@ -1,0 +1,77 @@
+html{
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    background-color: #141414;
+    color: white;
+    height: 100%;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+
+section{
+    background-color: #1f1f1f;
+    width: 384px;
+    height: 610px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+img{
+    border-radius: 50%;
+}
+
+h1{
+    font-weight: 700;
+    margin-top: 32px;
+    margin-bottom: 0;
+    font-size: 23px;
+}
+
+#descriptionText{
+    font-weight: 400;
+    margin-top: 31px;
+    margin-bottom: 26px;
+}
+
+button{
+    background-color: #333333;
+    border: none;
+    color: white;
+    width: 304px;
+    height: 45px;
+    border-radius: 10px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    cursor: url("img/customCursor.png"),auto;
+}
+
+button:hover{
+background-color: #C4f82a;
+color: #1f1f1f;
+}
+
+#locationText{
+    color: #C4f82a;
+    font-weight: 600;
+    margin-top: 13px;
+    margin-bottom: 0px;
+
+
+}
+
+#lastButton{
+    margin-bottom: 0px;
+}
